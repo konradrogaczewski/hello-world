@@ -1,5 +1,5 @@
 # hello-world
 
-thes sunny day in trailer parkk.
+sunny day in trailer park.
 
 Guidance system
